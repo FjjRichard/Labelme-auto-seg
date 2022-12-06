@@ -22,8 +22,12 @@ Labelme-auto-seg 是一款 Labelme与FastDeploy相结合的辅助语义分割标
 
 `6. 输入命令打开即可。 labelme`
 
-
-
 ### 3.使用教程
 
 视频教程：[B站：Labelme与FastDeploy相结合，辅助分割标注，减少生命消耗](https://www.bilibili.com/video/BV1vv4y1R7YB/?share_source=copy_web&vd_source=3fc869b3c9caaee3695f6232d3e3d32c)
+
+
+
+### 4. PaddleSeg分割教程
+
+Aistudio项目地址：[Labelme与FastDeploy相结合，辅助分割标注](https://aistudio.baidu.com/aistudio/projectdetail/5175578)
