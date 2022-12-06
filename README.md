@@ -21,3 +21,9 @@ Labelme-auto-seg 是一款 Labelme与FastDeploy相结合的辅助语义分割标
 `5. 构建labelme。python setup.py install`
 
 `6. 输入命令打开即可。 labelme`
+
+
+
+### 3.使用教程
+
+视频教程：[B站：Labelme与FastDeploy相结合，辅助分割标注，减少生命消耗](https://www.bilibili.com/video/BV1vv4y1R7YB/?share_source=copy_web&vd_source=3fc869b3c9caaee3695f6232d3e3d32c)
